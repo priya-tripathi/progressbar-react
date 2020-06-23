@@ -1,0 +1,3 @@
+export const FETCH_DATA = "FETCH_DATA";
+export const CHANGE_PROGRESS_BAR = "CHANGE_PROGRESS_BAR";
+export const CHANGE_BAR_VALUE = "CHANGE_BAR_VALUE";
